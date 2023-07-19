@@ -19,6 +19,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | Geoposicionamiento |
+| Nombre | **Tarea 9** *Geoposicionamiento* |
 | Descripción  | En resumen, la aplicación "Geoposicionamiento API" para Wear OS es una herramienta útil que utiliza una API de geolocalización confiable para proporcionar información precisa sobre la ubicación actual de los usuarios en su reloj inteligente.   |
 |  Fecha de Carga | 21/06/23  |
